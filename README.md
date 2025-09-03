@@ -1,4 +1,4 @@
-# E-commerce-Churn-Prediction-Targeted-Promotions
+# E-commerce Churn Prediction Targeted Promotions
 Author: Hoang Thi Hong Nhung  
 Date: 2925-09-03  
 Tools Used: Python
